@@ -1,2 +1,2 @@
-# 8761_meffsol
-Solutions to Meff's Problems
+# 8761_meefsol
+Solutions to Maff's Problems
